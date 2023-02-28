@@ -12,4 +12,15 @@ public class Kata {
         }
         return true;
     }
+    //7等題目 : String ends with?
+    public static boolean solution(String str, String ending) {
+        int total = str.length()-ending.length();
+        if(total >=0){
+            String s = str.substring(total,str.length());
+            if (s.equals(ending)) {
+                return true;
+            }
+        }
+        return false;
+    }
 }

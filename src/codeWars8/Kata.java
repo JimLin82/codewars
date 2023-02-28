@@ -46,5 +46,11 @@ public class Kata {
             return 0;
         }
     }
-
+    //8等題目 : Reversed Strings
+    public static String solution(String str) {
+        StringBuffer sb=new StringBuffer();
+        sb.append(str);
+//        System.out.println(sb.reverse());
+        return sb.reverse().toString();
+    }
 }
