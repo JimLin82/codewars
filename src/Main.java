@@ -20,6 +20,14 @@ public class Main {
 //        codeWars7.Kata.solution("samurai", "samurai");
 //        codeWars7.Square.isSquare(4);
 //        codeWars7.DescendingOrder.sortDesc(1921219);
-        codeWars7.Printer.printerError("aaaxbbbbyyhwawiwjjjwwm");
+//        codeWars7.Printer.printerError("aaaxbbbbyyhwawiwjjjwwm");
+//        codeWars7.Troll.disemvowel("No offense but,\\nYour writing is among the worst I've ever read");
+//        codeWars7.LineNumbering.number(Arrays.asList("a", "b", "c"));
+//        codeWars7.Kata.binaryAddition(2,12);
+//        codeWars6.PangramChecker.check("The quick brown fox jumps over the lazy dog.");
+//        codeWars7.RoundToTheNextMultipleOf5.roundToNext5(0 );
+//        codeWars7.Metro.countPassengers(new ArrayList<int[]>
+//                (Arrays.asList(new int[]{10, 0}, new int[]{3, 5}, new int[]{2, 5})));
+        codeWars6.Solution.twoSum(new int[]{1,2,3},4);
     }
 }

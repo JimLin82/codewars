@@ -23,4 +23,10 @@ public class Kata {
         }
         return false;
     }
+
+    //7等題目 : Binary Addition
+    public static String binaryAddition(int a, int b){
+
+        return Integer.toBinaryString(a+b);
+    }
 }
