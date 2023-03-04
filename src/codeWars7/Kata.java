@@ -29,4 +29,15 @@ public class Kata {
 
         return Integer.toBinaryString(a+b);
     }
+
+    //7等題目 : Get the Middle Character
+    public static String getMiddle(String word) {
+        if (word.length()%2 == 0){
+            return word.substring((word.length()/2)-1,(word.length()/2)+1);
+        }
+        if(word.length()%2 != 0){
+            return word.substring((word.length()/2),(word.length()/2)+1);
+        }
+        return "";
+    }
 }

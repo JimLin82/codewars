@@ -1,4 +1,4 @@
-package codeWars6;
+package codeWars7;
 
 import java.util.HashSet;
 import java.util.Set;
