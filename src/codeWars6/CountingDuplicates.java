@@ -13,6 +13,7 @@ public class CountingDuplicates {
                 set1.add(text.substring(i, i + 1).toLowerCase());
             }
         }
+        System.out.println(set.toString());
         System.out.println(set1.size());
         return set1.size();
     }

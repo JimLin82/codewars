@@ -40,4 +40,18 @@ public class Kata {
         }
         return "";
     }
+
+    //7等題目 : Shortest Word
+    public static int findShort(String s) {
+       String[]word = s.split(" ");
+       String sb = word[0];
+        for (int i = 1; i < word.length; i++) {
+             if(sb.length() > word[i].length()){
+                 sb = word[i];
+             }
+        }
+        System.out.println(sb.length());
+        return sb.length();
+    }
+
 }

@@ -29,7 +29,11 @@ public class Main {
 //        codeWars7.Metro.countPassengers(new ArrayList<int[]>
 //                (Arrays.asList(new int[]{10, 0}, new int[]{3, 5}, new int[]{2, 5})));
 //        codeWars6.Solution.twoSum(new int[]{1,2,3},4);
-//        codeWars6.CountingDuplicates.duplicateCount("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ");
-        codeWars7.Kata.getMiddle("testing");
+//        codeWars6.CountingDuplicates.duplicateCount("aACACABb");
+//        codeWars7.Kata.getMiddle("testing");
+//        codeWars7.Arge.nbYear(13647134, 1.33, 68235, 14807129);
+//        codeWars6.MexicanWave.wave("two words");
+//        codeWars6.Solution.camelCase("camelCasingTest");
+        codeWars7.Kata.findShort("the out the i");
     }
 }
