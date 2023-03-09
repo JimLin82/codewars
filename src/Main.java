@@ -34,6 +34,12 @@ public class Main {
 //        codeWars7.Arge.nbYear(13647134, 1.33, 68235, 14807129);
 //        codeWars6.MexicanWave.wave("two words");
 //        codeWars6.Solution.camelCase("camelCasingTest");
-        codeWars7.Kata.findShort("the out the i");
+//        codeWars7.Kata.findShort("the out the i");
+//        codeWars7.Vowels.getCount("o a kak ushakov lil vo kashu kakao");
+//        codeWars7.BinaryArrayToNumber.ConvertBinaryArrayToInt(new ArrayList<>(Arrays.asList(1, 1, 0, 1, 0, 0)));
+//        codeWars6.DigPow.digPow(46288, 3);
+//        codeWars6.Kata.high("what time are we climbing up to the volcano");
+//        codeWars6.Xbonacci.tribonacci(new double []{1.0, 6.0},4);
+        codeWars6.TenMinWalk.isValid(new char[] {'n','s','n','s','n','s','n','s','n','s'});
     }
 }
